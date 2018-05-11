@@ -19,4 +19,4 @@ cd etherwallet-3.11.3.2/json_relay_node/ &&
 sudo apt-get install xdg-utils &&
 xdg-open etherwallet-3.11.3.2/dist/index.html
 
-sudo node runLocalServer.js 
+#sudo node runLocalServer.js 
