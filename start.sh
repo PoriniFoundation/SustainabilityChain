@@ -17,6 +17,6 @@ npm install express vhost body-parser node-json-rpc bignumber.js wait.for &&
 cd etherwallet-3.11.3.2/json_relay_node/ &&
 
 sudo apt-get install xdg-utils &&
-xdg-open etherwallet-3.11.3.2/dist/index.html
+#xdg-open etherwallet-3.11.3.2/dist/index.html
 
 #sudo node runLocalServer.js 
