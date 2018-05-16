@@ -1,0 +1,35 @@
+################################################
+#Task for freelancers/volunteers that want to contribute to the SustainabilityChain
+################################################
+
+----------
+Task 1
+----------
+
+a cron-job that
+ - checks if geth is still running (for example with >top  ¦ grep geth ...... or something similar)
+ - i geth is not running 
+ -- start geth according https://github.com/ScenicSwisscoast/SustainabiltyChain point 3b
+ -- make sure the node is synced according https://github.com/ScenicSwisscoast/SustainabiltyChain
+ -- make sure the miner is started
+
+
+----------
+Task 2
+----------
+
+prepare a docker for our genesisfile and our paramters using this info 1-3
+https://gist.github.com/fishbullet/04fcc4f7af90ee9fa6f9de0b0aa325ab
+and
+https://github.com/ScenicSwisscoast/SustainabiltyChain
+and document it
+
+----------
+Task 3
+----------
+adding more feature to our explorer http://sustainability-chain.net:3000/
+the ultimate vision would be something as elaborate as https://etherscan.io
+at the moment we use 
+https://github.com/gobitfly/etherchain-light
+
+
