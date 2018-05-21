@@ -24,8 +24,15 @@ and
 https://github.com/ScenicSwisscoast/SustainabiltyChain
 and document it
 
+
 ----------
 Task 3
+----------
+Prepare and implement a minining pool tool like
+https://github.com/sammy007/open-ethereum-pool
+
+----------
+Task 4
 ----------
 adding more feature to our explorer http://sustainability-chain.net:3000/
 the ultimate vision would be something as elaborate as https://etherscan.io
