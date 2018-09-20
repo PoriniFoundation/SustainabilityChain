@@ -1,0 +1,11 @@
+tasklist for SustainabilityChain ideally all tools interoperable with any Ethereum Side chain and working (eg. RPC dropdown)
+----------------------------------
+
+1) docker documentation & setup for SustainabilityChain POW & POA
+2) tutorial for browserset up or a docker for setting up a blockchain-browser with functionalities for SustainabilityChain like etherscan.io can be something more simple possibly based on https://github.com/gobitfly/etherchain-light 
+3) Document - Hashing tool like chainy.link https://github.com/EverexIO/Chainy
+4) tokenexplorer like https://ethplorer.io/
+5) Dappstore overview of dapps running on SustainabilityChain POW/POA inspired by https://www.stateofthedapps.com/
+6) Interface to identity solutions (e.g. based on the API of eID+ https://procivis.ch/eid/what-is-eid/)
+
+
