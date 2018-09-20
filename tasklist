@@ -7,5 +7,6 @@ tasklist for SustainabilityChain ideally all tools interoperable with any Ethere
 4) tokenexplorer like https://ethplorer.io/
 5) Dappstore overview of dapps running on SustainabilityChain POW/POA inspired by https://www.stateofthedapps.com/
 6) Interface to identity solutions (e.g. based on the API of eID+ https://procivis.ch/eid/what-is-eid/)
-
+7) Network status dashboard: https://ethstats.net/
+8) overview over transaction costs inspired by https://ethgasstation.info/
 
