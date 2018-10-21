@@ -9,4 +9,6 @@ tasklist for SustainabilityChain ideally all tools interoperable with any Ethere
 6) Interface to identity solutions (e.g. based on the API of eID+ https://procivis.ch/eid/what-is-eid/)
 7) Network status dashboard: https://ethstats.net/
 8) overview over transaction costs inspired by https://ethgasstation.info/
+9) Mobile app like status.io that connects to the Sustainability-Chain RPC eg sustainablity-chain.net
+
 
